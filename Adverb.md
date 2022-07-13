@@ -20,3 +20,15 @@ Trạng từ là những từ dùng để cung cấp thông tin cho câu về c�
 |He __always__ _wraps_ presents by himself | __Adv*__ + V _(Adv tần suất)_ |
 | He _wrapped_ the present __extremely__ _beautifully_ | __Adv__ + Adv |
 | __Unfortunatly__, she is not my girlfriend and the present isn't mine | __Adv__, S + V |
+
+## II. Các trạng từ dễ gây nhầm lẫn
+
+|   | Late - Muộn                       | Lately - Gần đây          |
+|---|-----------------------------------|---------------------------|
+|Adj| He was late for work              |                           |
+|Adv| He stayed up late and got up late | Have you seen Tan lately? |
+
+|   | Hard                                                         | Hardly                                                  |
+|---|--------------------------------------------------------------|---------------------------------------------------------|
+|Adj| __Khó__: Houses like this are extremely hard to find         | __Chăm chỉ__: He's hard at work on a new novel          |
+|Adv| __Mạnh, cật lực__: He had studied hard to become an engineer | __Hầu như không__ _(= rarely, seldom)_: He hardly works |
