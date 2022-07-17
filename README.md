@@ -1,6 +1,8 @@
 # Toeic
 
-- [ ] [Adverb](Adverb.md)
+- [ ] Danh từ
+- [ ] Tính từ
+- [ ] [Trạng từ](Adverb.md)
 
 ## Các phần mềm học tiếng anh
 
