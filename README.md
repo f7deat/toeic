@@ -5,6 +5,7 @@ TOEIC, viết tắt của Test of English for International Communication – B�
 - [ ] [Danh từ - Nouns](Nouns.md)
 - [ ] Tính từ
 - [ ] [Trạng từ - Adverb](Adverb.md)
+- [ ] [Đại từ - Pronouns](pronouns.md)
 
 ## Infrastructue
 
